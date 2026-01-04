@@ -1,4 +1,4 @@
-# requirements.txt - Otimizado para Streamlit Cloud e Python 3.11
+# requirements.txt - Otimizado para Streamlit Cloud
 streamlit==1.32.0
 numpy==1.26.4
 pandas==2.2.1
